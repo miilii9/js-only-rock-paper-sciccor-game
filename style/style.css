@@ -1,0 +1,17 @@
+body {
+  background-color: #cccc;
+  margin: 0;
+  padding: 0;
+}
+.btn-start {
+  padding: 1rem;
+  color: #fff;
+  background-color: #2465a6;
+  margin: 4rem !important;
+  border-radius: 4px;
+  width: 100px;
+}
+.btn-start a {
+  color: #fff;
+  text-decoration: none;
+}
